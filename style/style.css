@@ -73,7 +73,7 @@ strong { font-weight: 700;}
 .bg1{ background-image: url(../images/bg/bg1.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed;}
 .bg2{ background-image: url(../images/bg/bg2.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed;}
 .bg3{ background: url(../images/bg/bg3.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed;}
-.pattern1{ background-image: url(../images/bg/pattern1.png); background-repeat:) repeat; background-position: center center;}
+.pattern1{ background-image: url(../images/bg/pattern1.png); background-repeat: repeat; background-position: center center;}
 .pattern2{ background-image: url(../images/bg/pattern2.png); background-repeat: repeat; background-position: center center;}
 .pattern3{ background-image: url(../images/bg/pattern3.jpg); background-repeat: repeat; background-position: center center;}
 .pattern4{ background-image: url(../images/bg/pattern4.png); background-repeat: repeat; background-position: center center;}
@@ -1152,4 +1152,10 @@ div.sc_googlemap .map-canvas { min-width:100px; min-height:100px;}
 #business-logo {
   height: 1.1em;
   margin-bottom: -3px;
+}
+
+#biz-logo {
+  max-width: 33%;
+  height: auto;
+  margin-bottom: -5px;
 }
