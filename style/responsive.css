@@ -223,7 +223,7 @@
   }
   .slider_container ul.slides,
   .post_gallery ul.slides {
-    height: 175px;
+    height: 175px !important;
   }
   .mejs-time-rail {
     display: none !important;
@@ -232,7 +232,10 @@
     display: none !important;
   }
   #biz-logo {
-    max-width: 60%;
+    max-width: 100%;
     height: auto;
+  }
+  .resume_period {
+    width: 50%;
   }
 }
