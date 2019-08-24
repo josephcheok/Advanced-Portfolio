@@ -186,7 +186,7 @@
     height: 60px;
   }
   #profile_photo {
-    width: 95px;
+    width: 120px;
   }
   .opened #profile_header {
     padding: 0 15px;
@@ -215,7 +215,7 @@
   }
   .slider_container ul.slides,
   .post_gallery ul.slides {
-    height: 149px;
+    height: 155px;
   }
   .mejs-time-rail {
     display: none !important;
