@@ -240,9 +240,6 @@
     margin-left: 5px !important;
   }
   #googlemap_data {
-    text-align: center;
-  }
-  .add_info {
-    display: inline-block;
+    margin-left: 70px !important;
   }
 }
