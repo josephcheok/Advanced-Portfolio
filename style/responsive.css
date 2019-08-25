@@ -142,7 +142,7 @@
     height: 114px;
   }
   #googlemap_data .add_info {
-    display: none;
+    /* display: none; */
   }
   .sidebar.contact_sidebar {
     float: none;
@@ -185,7 +185,7 @@
   }
   #mainpage_accordion_area .portfolio_items article.portfolio_post {
     width: 240px;
-    height: 145px;
+    height: 160px;
   }
   #portfolio_iso_filters li a {
     margin-bottom: 2px;
@@ -223,7 +223,7 @@
   }
   .slider_container ul.slides,
   .post_gallery ul.slides {
-    height: 175px !important;
+    height: 149px;
   }
   .mejs-time-rail {
     display: none !important;
