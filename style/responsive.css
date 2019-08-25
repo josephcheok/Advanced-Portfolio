@@ -240,6 +240,7 @@
     margin-left: 5px !important;
   }
   #googlemap_data .add_info {
+    margin: 0 auto;
     padding-left: 70px;
   }
 }
