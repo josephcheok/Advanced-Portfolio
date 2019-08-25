@@ -142,7 +142,7 @@
     height: 114px;
   }
   #googlemap_data .add_info {
-    /* display: none; */
+    margin-left: 10px;
   }
   .sidebar.contact_sidebar {
     float: none;

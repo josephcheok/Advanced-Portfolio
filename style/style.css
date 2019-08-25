@@ -1159,3 +1159,15 @@ div.sc_googlemap .map-canvas { min-width:100px; min-height:100px;}
   height: auto;
   margin-bottom: -5px;
 }
+
+#resume-logo {
+  max-width: 30%;
+  height: auto;
+  margin-bottom: -5px;
+  margin-left: -7px;
+}
+
+.resume_subtitle{
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
