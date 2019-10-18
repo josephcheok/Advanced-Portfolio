@@ -6,11 +6,11 @@
 global $_REQUEST;
 $response = array('error'=>'');
 
-	$user_name = substr($_REQUEST['user_name'], 0, 20);
-	$user_email = substr($_REQUEST['user_email'], 0, 40);
-	$user_msg = $_REQUEST['user_msg'];
+	$user_name = substr($_POST['username'], 0, 20);
+	$user_email = substr($_POST['email'], 0, 40);
+	$user_msg = $_POST['message'];
 	
-	$contact_email = 'your_mail@mail.com';	
+	$contact_email = 'joseph@cheokandco.com';	
 	
 	if (trim($contact_email)!='') {
 		$subj = 'Message from ShiftCV HTML';
